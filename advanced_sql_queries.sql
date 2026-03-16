@@ -72,3 +72,18 @@ WHERE s.salario > 100000
 AND s.hasta_fecha = '9999-01-01'
 AND de.hasta_fecha = '9999-01-01'
 ORDER BY e.nombre ASC;
+
+-- 6. Find the highest salary in the company
+SELECT MAX(salario) AS highest_salary
+FROM salarios;
+
+
+-- 7. Employees hired before the year 1990
+SELECT nombre, apellido, fecha_contrato
+FROM empleados
+WHERE fecha_contrato < '1990-01-01';
+
+
+-- 8. Total number of employees
+SELECT COUNT(*) AS total_employees
+FROM empleados;
