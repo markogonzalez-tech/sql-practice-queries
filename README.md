@@ -1,14 +1,27 @@
 # SQL Practice Queries
 
-This repository contains SQL exercises created while learning database management with MySQL.
+This repository contains a collection of SQL queries and mini projects created while learning MySQL and database management.
 
-## Topics Covered
+## Contents
 
-- SELECT queries
-- JOIN operations
+- Basic queries (SELECT, WHERE)
+- JOIN operations (INNER JOIN, multiple tables)
 - Subqueries
-- Aggregation functions (AVG, COUNT)
+- Aggregation functions (AVG, COUNT, MAX, MIN)
 - GROUP BY and ORDER BY
+- Mini project queries
+
+## What I learned
+
+- How to combine multiple tables using JOIN
+- How to filter and analyze data
+- How to use subqueries to solve complex problems
+- How to structure SQL queries properly
+
+## Files
+
+- `advanced_sql_queries.sql` → Advanced SQL queries
+- `mini_project_queries.sql` → Mini project with real-world style queries
 
 ## Technologies
 
@@ -17,4 +30,10 @@ This repository contains SQL exercises created while learning database managemen
 
 ## Purpose
 
-The goal of this repository is to practice SQL queries and improve database querying skills.
+The goal of this repository is to improve my SQL skills and practice database querying through real examples.
+
+## Future Improvements
+
+- Add more complex queries
+- Practice database design
+- Include real datasets
