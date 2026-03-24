@@ -37,3 +37,10 @@ The goal of this repository is to improve my SQL skills and practice database qu
 - Add more complex queries
 - Practice database design
 - Include real datasets
+
+## 📈 Progress
+
+- Basic SQL queries ✔
+- JOIN queries ✔
+- Subqueries ✔
+- Real-world queries ✔
