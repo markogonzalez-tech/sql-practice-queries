@@ -44,3 +44,9 @@ The goal of this repository is to improve my SQL skills and practice database qu
 - JOIN queries ✔
 - Subqueries ✔
 - Real-world queries ✔
+
+## Future Improvements
+
+- Improve code structure
+- Add more features
+- Practice advanced concepts
